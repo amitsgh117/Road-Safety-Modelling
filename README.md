@@ -1,4 +1,4 @@
-# Road-Safety-Modelling-CE775-
+# Road-Safety-Modelling
 
 * Developed a regression model in R for pedestrian volumes and obtained the best fit model with R^2 = 0.71
 * Built another log-linear model for non negative predictions and arrived at a conclusion that linear model had a better fitness
